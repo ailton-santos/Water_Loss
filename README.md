@@ -29,8 +29,8 @@ This project was built using **Python** with a focus on data analysis and intera
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/water-loss-dashboard.git](https://github.com/your-username/water-loss-dashboard.git)
-    cd water-loss-dashboard
+    git clone [https://github.com/your-username/water-loss-dashboard.git](https://github.com/ailton-santos/Water_Loss.git)
+    cd Water_Loss
     ```
 
 2.  **Install dependencies:**
